@@ -1,0 +1,7 @@
+-Wall
+-Wextra
+-Werror
+-Wno-error=unused-parameter
+-Wno-error=unused-variable
+-Iinclude
+-std=c23
